@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alan Cheyne</h1>
 <h3 align="center">A computer Science Student from Colombia</h3>
-<img aligh="right" alt="Coding" wight"400" src="https://media.giphy.com/media/798oH0WDEQnicM4857/giphy.gif">
+<img aligh="center" alt="Coding" wight"400" src="https://media.giphy.com/media/798oH0WDEQnicM4857/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archeyne&label=Profile%20views&color=0e75b6&style=flat" alt="archeyne" /> </p>
 
