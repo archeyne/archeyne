@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Alan Cheyne</h1>
 <h3 align="center">A computer Science Student from Colombia</h3>
 <img aligh="right" alt="Coding" wight"400" src="https://media.giphy.com/media/798oH0WDEQnicM4857/giphy.gif">
